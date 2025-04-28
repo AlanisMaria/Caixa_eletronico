@@ -13,4 +13,4 @@
 ⌖No terminal colocar npm install readline-sync e em seguida ativar o node main.js.
 
                            ☾Youtube☽
-
+Não consegui fazer a gravação do vídeo e meu grupo não ajudou.
