@@ -14,3 +14,4 @@
 
                            ☾Youtube☽
 
+Não consegui gravar e minhas colegas não ajudaram.
